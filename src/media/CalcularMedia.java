@@ -42,7 +42,7 @@ public class CalcularMedia {
     n3 = notas.nextDouble();
     
     //Recebe quarta nota.
-    System.out.println("Digite a nota 3:\n");
+    System.out.println("Digite a nota 4:\n");
     n4 = notas.nextDouble();
     
     //Calcula a média com os determinados pesos.
